@@ -1,0 +1,70 @@
+.parent{
+    border: 1px solid red;
+    height:50rem;
+    width:15rem;
+}
+.logo{
+    /* border:1px solid green; */
+    width:10rem;
+    height:2rem;
+    display: flex;
+    flex-direction: row;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    padding:0px;
+    
+}
+.user{
+    /* border:1px solid green; */
+    width:10rem;
+    height:2rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    padding:0px;
+    display: flex;
+    flex-direction: row;
+}
+.user h3{
+    margin-left: 1rem;
+}
+.userManage {
+    /* border:1px solid green; */
+    width:10rem;
+    height:8rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    padding:0px;
+    display: flex;
+    flex-direction: row;
+
+}
+.testsAssessment{
+    /* border:1px solid green; */
+    width:10rem;
+    height:8rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    padding:0px;
+    display: flex;
+    flex-direction: row;
+}
+.reports{
+    /* border:1px solid green; */
+    width:10rem;
+    height:8rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    padding:0px;
+    display: flex;
+    flex-direction: row;
+}
+.notesAssessment{
+    /* border:1px solid green; */
+    width:10rem;
+    height:8rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    padding:0px;
+    display: flex;
+    flex-direction: row;
+}
